@@ -24,9 +24,9 @@ I'm a **Full Stack Developer** specializing in modern web technologies, focused 
 
 ### 🌱 Currently Learning
 
-- Advanced TypeScript patterns for React applications.
-- Serverless architectures with AWS and Vercel.
-- Advanced GraphQL with Apollo Client.
+- **AI and Machine Learning**: Diving deep into Artificial Intelligence, exploring machine learning models, and understanding their applications.
+- **Advanced TypeScript**: Mastering advanced patterns for scalable and maintainable TypeScript applications.
+- **Serverless Architectures**: Building next-gen applications with AWS and Vercel.
 
 ### 📫 How to Reach Me
 
@@ -55,4 +55,3 @@ I'm a **Full Stack Developer** specializing in modern web technologies, focused 
 ---
 
 _Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on a project._
-
