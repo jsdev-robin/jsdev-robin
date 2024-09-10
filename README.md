@@ -56,4 +56,3 @@ I'm a **Full Stack Developer** specializing in modern web technologies, focused 
 
 _Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on a project._
 
-![Footer](https://your-custom-footer-url.com/footer.png)
