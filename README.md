@@ -14,13 +14,18 @@ I'm a **Full Stack Developer** specializing in modern web technologies, focused 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-%2361DAFB.svg?style=for-the-badge&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![ShadCN-UI](https://img.shields.io/badge/shadcn--ui-%2343853D.svg?style=for-the-badge)
 
 ### 🚀 What I Do
 
-- **Frontend Development**: Crafting interactive, responsive UIs using React, Next.js, Redux, TypeScript, Tailwind CSS, and more.
+- **Frontend Development**: Crafting interactive, responsive UIs using React, Next.js, Redux, TypeScript, Tailwind CSS, Bootstrap, Radix UI, MUI, ShadCN-UI, and more.
 - **Backend Development**: Building robust APIs and server-side applications using Node.js, Express.js, and MongoDB.
 - **Full Stack Development**: Developing end-to-end solutions using the MERN stack.
-- **UI/UX Design**: Creating visually appealing and user-centric designs using modern UI libraries like MUI and Radix UI.
+- **UI/UX Design**: Creating visually appealing and user-centric designs using modern UI libraries like MUI, Radix UI, and ShadCN-UI.
 
 ### 🌱 Currently Learning
 
