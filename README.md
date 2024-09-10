@@ -1,5 +1,3 @@
-![Header](https://your-custom-banner-url.com/banner.png)
-
 ## Hi there, I'm Md. Robin! 👋
 
 I'm a **Full Stack Developer** specializing in modern web technologies, focused on building efficient and scalable applications. I love learning new technologies and keeping myself updated with the latest industry trends.
