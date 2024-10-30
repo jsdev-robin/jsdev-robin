@@ -34,23 +34,8 @@ I'm a **Full Stack Developer** specializing in modern web technologies, focused 
 - **Serverless Architectures**: Building next-gen applications with AWS and Vercel.
 
 ### 📫 How to Reach Me
-
-- **Portfolio**: [muntaha-rho.vercel.app](https://muntaha-rho.vercel.app/)
 - **Email**: [jsdev.robin@gmail.com](mailto:jsdev.robin@gmail.com)
 - **LinkedIn**: [Md. Robin](https://linkedin.com/in/your-linkedin)
-
-### 📂 Featured Projects
-
-- [**E-Commerce Platform**](https://github.com/your-username/ecommerce-project): A full-stack, scalable e-commerce platform built with the MERN stack.
-- [**Personal Portfolio**](https://github.com/your-username/portfolio): My personal portfolio showcasing my skills, projects, and contact information.
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Server Components](https://your-blog.com/react-server-components)
-- [10 Tips for Clean and Maintainable JavaScript Code](https://your-blog.com/js-clean-code)
-- [The Future of Web Development in 2024](https://your-blog.com/future-web-dev)
-<!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Let's Connect!
 
