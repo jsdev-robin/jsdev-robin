@@ -65,6 +65,20 @@ Hi! I'm <b>Robin</b>, a passionate developer who loves building modern, scalable
 
 ---
 
+## 📊 Workflow Overview
+
+```mermaid
+graph TD
+  A[User] -->|Browses UI| B(React.js / Next.js)
+  B -->|API Calls| C(Node.js / Express.js)
+  C -->|Database Ops| D(MongoDB / Redis)
+  C -->|Uploads| E[Cloudinary]
+  C -->|Mails| F[Email Service]
+  C -->|Auth| G[JWT / OAuth]
+```
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
