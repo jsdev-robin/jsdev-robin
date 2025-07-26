@@ -54,17 +54,6 @@ Hi! I'm <b>Robin</b>, a passionate developer who loves building modern, scalable
 - 🌐 Google OAuth, Cloudinary, Redis integrations
 - 🧹 Clean, maintainable code with best practices
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsdev-robin&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdev-robin&layout=compact&theme=radical" alt="Languages" height="150"/>
-</p>
-
----
-
 ## 📊 Workflow Overview
 
 ```mermaid
