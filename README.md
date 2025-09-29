@@ -1,44 +1,55 @@
 # Md Robin
 **Senior Full-Stack Engineer**
 
-Specializing in end-to-end application development with expertise across web, mobile, and cloud technologies.
+Architecting and delivering end-to-end solutions across web, mobile, and cloud ecosystems. Passionate about building scalable, maintainable, and high-performance applications.
 
 ---
 
-## Technical Expertise
+## 💻 Technical Expertise
 
-**Frontend Architecture**
-- React.js · Next.js · TypeScript
-- MUI · Tailwind CSS · Shadcn UI · Radix UI
-- SSR/SSG · Performance Optimization · Responsive Design
+### Frontend Technologies
+- **Frameworks & Libraries:** React.js, Next.js  
+- **UI & Styling:** MUI, Tailwind CSS, Shadcn UI, Radix UI  
+- **Performance & Rendering:** SSR/SSG, Client-Side Routing, Performance Optimization  
+- **Design & Compatibility:** Responsive Design, Cross-Browser Compatibility  
 
-**Mobile Development**
-- React Native · Android · iOS
-- Java · Kotlin
-- Cross-Platform Solutions
+### Backend & API Development
+- **Server & Frameworks:** Node.js, Express.js  
+- **API Design & Protocols:** REST API, GraphQL, Swagger, Rate Limiting  
+- **Real-Time Communication:** WebSockets, Socket.io, WebRTC  
+- **Authentication & Security:** JWT Auth, Passport.js, CSRF Protection, Bcrypt.js, 2FA (Speakeasy)  
+- **Input Handling:** Validation, Sanitization  
 
-**Backend & APIs**
-- Node.js · Express.js · REST · GraphQL
-- WebSockets · Socket.io · WebRTC
-- Microservices · Event-Driven Architecture
+### Database & Caching
+- MongoDB, Mongoose  
+- Redis, @upstash/redis, ioredis  
+- Firebase (Used When Required)  
 
-**Data & Infrastructure**
-- MongoDB · Mongoose · Redis · Firebase
-- AWS S3 · Cloudinary · CDN
-- Docker · CI/CD Pipelines
+### Integration & Tools
+- **Payments:** Stripe, PayPal  
+- **OAuth Providers:** Google, Facebook, Twitter, LinkedIn, GitHub, Discord, etc.  
+- **Email & Requests:** Nodemailer, Axios  
+- **Utilities:** QR Code Generation, Slugify  
 
-**Security & Integrations**
-- JWT · OAuth · Passport.js · 2FA
-- Stripe · PayPal · Nodemailer
-- KafkaJS · Message Queues
+### Messaging & Architecture
+- KafkaJS, Microservices, Event-Driven Architecture  
+- Turborepo, Nx Monorepo  
+
+### Cloud & Storage
+- AWS S3, Cloudinary, Multer, CDN Integration  
+
+### DevOps & Testing
+- Docker (Basic - For Development)  
+- Puppeteer, Postman, Supertest  
+- CI/CD Pipelines, Node-cron  
 
 ---
 
-## Contact
-- **Email:** jsdev.robin@gmail.com
-- **Phone:** +88017-63408494
-- **GitHub:** jsdev-robin
+## 📫 Contact
+- **Email:** [jsdev.robin@gmail.com](mailto:jsdev.robin@gmail.com)  
+- **Phone:** +88017-63408494  
+- **GitHub:** [jsdev-robin](https://github.com/jsdev-robin)  
 
 ---
 
-*Building scalable systems with focus on performance and maintainability*
+*Building robust, scalable systems with a focus on performance, maintainability, and modern development best practices.*
