@@ -29,6 +29,7 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-323232?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square)
@@ -85,6 +86,7 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 
 ### Cloud & Storage
 - AWS S3, Cloudinary, Multer, CDN Integration  
+- Kubernetes, Docker  
 
 ### DevOps & Testing
 - Docker (Basic - For Development)  
