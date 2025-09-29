@@ -12,6 +12,20 @@
 
 </div>
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+### 🎯 1,994 Contributions in the Last Year
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=jsdev-robin&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsdev-robin&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jsdev-robin&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdev-robin&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
 ## 🚀 Technical Skills
 
 ### 🌐 Web Development
@@ -48,57 +62,40 @@
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔐 Authentication & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsdev-robin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdev-robin&layout=compact&theme=radical)
-
-</div>
-
 ## 👨‍💻 About Me
 
-I am **Md Robin**, a dedicated Full-Stack Developer with expertise in:
+I am **Md Robin**, a dedicated Full-Stack Developer with **1,994+ contributions** in the last year, demonstrating consistent commitment to coding and open-source. I specialize in:
+
 - **Web Development**: MERN Stack, Next.js, TypeScript
 - **Mobile Development**: React Native (Android + iOS), Java, Kotlin
 - **Backend Development**: Node.js, Express, REST APIs, GraphQL
 - **Database**: MongoDB, Redis, Firebase
 - **DevOps**: Docker, CI/CD, AWS
 
-## 🎯 Expertise Areas
+## 🏆 GitHub Trophies
 
-### Web Applications
-- Building scalable MERN stack applications
-- Responsive design with modern CSS frameworks
-- Real-time features with WebSockets
-- Performance optimization and SEO
+<div align="center">
 
-### Mobile Applications
-- Cross-platform development with React Native
-- Native Android development with Java/Kotlin
-- iOS compatibility through React Native
-- Mobile UI/UX implementation
+![Trophies](https://github-profile-trophy.vercel.app/?username=jsdev-robin&theme=radical&no-frame=true&row=2&column=4)
 
-### Backend & APIs
-- RESTful API development
-- GraphQL implementation
-- Authentication & Authorization
-- Database design and optimization
+</div>
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-jsdev.robin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jsdev.robin@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B8801763408494-008000?style=flat-square&logo=whatsapp&logoColor=white)](tel:+8801763408494)
-[![GitHub](https://img.shields.io/badge/GitHub-jsdev--robin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jsdev-robin)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jsdev.robin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsdev.robin@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B8801763408494-008000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801763408494)
+[![GitHub](https://img.shields.io/badge/GitHub-jsdev--robin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsdev-robin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-robin)
+
+</div>
 
 ---
 
 <div align="center">
+
+### 💻 **Consistent Coder | 1,994+ Annual Contributions**
 
 ⭐️ From [jsdev-robin](https://github.com/jsdev-robin)
 
