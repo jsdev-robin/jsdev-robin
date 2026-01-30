@@ -52,7 +52,7 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 
 ## 🏗️ Projects
 
-- **Munza Geo API** – [https://munza-geo.vercel.app/api/v1/administrative/name-0](https://munza-geo.vercel.app/api/v1/administrative/name-0)  
+- **Munza Geo API** – [Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) | [Docs](https://github.com/jsdev-robin/munza-docs/tree/master/geo)  
   API for fetching administrative divisions globally, including countries, states, districts, and more.
 
 ## 📫 Contact
