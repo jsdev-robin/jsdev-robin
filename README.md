@@ -50,7 +50,7 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 💻 Product
+## 🏗️ Projects
 
 - **Munza Geo API** – [https://munza-geo.vercel.app/api/v1/administrative/name-0](https://munza-geo.vercel.app/api/v1/administrative/name-0)  
   API for fetching administrative divisions globally, including countries, states, districts, and more.
