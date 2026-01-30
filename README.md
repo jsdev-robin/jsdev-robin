@@ -50,50 +50,10 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 💻 Technical Expertise
+## 💻 Product
 
-### Frontend Technologies
-- **Frameworks & Libraries:** React.js, Next.js  
-- **UI & Styling:** MUI, Tailwind CSS, Shadcn UI, Radix UI  
-- **Performance & Rendering:** SSR/SSG, Client-Side Routing, Performance Optimization  
-- **Design & Compatibility:** Responsive Design, Cross-Browser Compatibility  
-
-### Mobile Development
-- Android, iOS, React Native  
-- Java, Kotlin  
-
-### Backend & API Development
-- **Server & Frameworks:** Node.js, Express.js  
-- **API Design & Protocols:** REST API, GraphQL, Swagger, Rate Limiting  
-- **Real-Time Communication:** WebSockets, Socket.io, WebRTC  
-- **Authentication & Security:** JWT Auth, Passport.js, CSRF Protection, Bcrypt.js, 2FA (Speakeasy)  
-- **Input Handling:** Validation, Sanitization  
-
-### Database & Caching
-- MongoDB, Mongoose  
-- Redis, @upstash/redis, ioredis  
-- Firebase (Used When Required)  
-
-### Integration & Tools
-- **Payments:** Stripe, PayPal  
-- **OAuth Providers:** Google, Facebook, Twitter, LinkedIn, GitHub, Discord, etc.  
-- **Email & Requests:** Nodemailer, Axios  
-- **Utilities:** QR Code Generation, Slugify  
-
-### Messaging & Architecture
-- KafkaJS, Microservices, Event-Driven Architecture  
-- Turborepo, Nx Monorepo  
-
-### Cloud & Storage
-- AWS S3, Cloudinary, Multer, CDN Integration  
-- Kubernetes, Docker  
-
-### DevOps & Testing
-- Docker (Basic - For Development)  
-- Puppeteer, Postman, Supertest  
-- CI/CD Pipelines, Node-cron  
-
----
+- **Munza Geo API** – [https://munza-geo.vercel.app/api/v1/administrative/name-0](https://munza-geo.vercel.app/api/v1/administrative/name-0)  
+  API for fetching administrative divisions globally, including countries, states, districts, and more.
 
 ## 📫 Contact
 - **Email:** [jsdev.robin@gmail.com](mailto:jsdev.robin@gmail.com)  
