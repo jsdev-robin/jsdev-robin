@@ -54,14 +54,25 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 
 ## 🏗️ Projects
 
-**Munza Geo API** – [Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) | [Docs](https://github.com/jsdev-robin/munza-docs/blob/master/geo/README.md)  
-API for fetching administrative divisions globally, including countries, states, districts, and more.
+### 🌍 Munza Geo API  
+[Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) · [Docs](https://github.com/jsdev-robin/munza-docs/blob/master/geo/README.md)
 
-**react-muntaha-uploader** – [npm](https://www.npmjs.com/package/react-muntaha-uploader)  
-A modern React file uploader designed for flexible, production-ready file handling.
+Global administrative data API providing hierarchical geographic divisions — countries, states, districts, and beyond.  
+Designed for fast querying, clean REST architecture, and global scalability.
 
-**muntahacache** – [npm](https://www.npmjs.com/package/muntahacache)  
-A lightweight caching library built for performance, scalability, and structured data management.
+---
+
+### 📦 react-muntaha-uploader  
+[npm](https://www.npmjs.com/package/react-muntaha-uploader)
+
+A modern, flexible React file uploader built for production-ready applications with clean APIs and easy integration.
+
+---
+
+### ⚡ muntahacache  
+[npm](https://www.npmjs.com/package/muntahacache)
+
+A lightweight, high-performance caching library focused on scalability, structured data handling, and developer experience.
 
 ---
 
