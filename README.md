@@ -19,60 +19,29 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-FF6C37?style=flat-square)
-![WebRTC](https://img.shields.io/badge/WebRTC-0052CC?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-323232?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square)
-![Passport.js](https://img.shields.io/badge/Passport.js-000000?style=flat-square)
-![2FA](https://img.shields.io/badge/2FA-Speakeasy-4B5563?style=flat-square)
-![KafkaJS](https://img.shields.io/badge/KafkaJS-231F20?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=flat-square)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-FF6C37?style=flat-square)
-![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat-square)
 ![Nx](https://img.shields.io/badge/Nx-CE0058?style=flat-square)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-FF6C37?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)
-![Supertest](https://img.shields.io/badge/Supertest-FF6C37?style=flat-square)
-![Node-cron](https://img.shields.io/badge/Node--cron-339933?style=flat-square)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat-square)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
 ## 🏗️ Projects
 
-### 🌍 Munza Geo API  
-[Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) · [Docs](https://github.com/jsdev-robin/munza-docs/blob/master/geo/README.md)
+**Munza Geo API** – [Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) | [Docs](https://github.com/jsdev-robin/munza-docs/blob/master/geo/README.md)  
+Global administrative data API for hierarchical geographic divisions worldwide.
 
-Global administrative data API providing hierarchical geographic divisions — countries, states, districts, and beyond.  
-Designed for fast querying, clean REST architecture, and global scalability.
+**react-muntaha-uploader** – [npm](https://www.npmjs.com/package/react-muntaha-uploader)  
+Production-ready React file uploader with clean APIs and flexible integration.
 
----
-
-### 📦 react-muntaha-uploader  
-[npm](https://www.npmjs.com/package/react-muntaha-uploader)
-
-A modern, flexible React file uploader built for production-ready applications with clean APIs and easy integration.
-
----
-
-### ⚡ muntahacache  
-[npm](https://www.npmjs.com/package/muntahacache)
-
-A lightweight, high-performance caching library focused on scalability, structured data handling, and developer experience.
+**muntahacache** – [npm](https://www.npmjs.com/package/muntahacache)  
+Lightweight, high-performance caching library for scalable web applications.
 
 ---
 
