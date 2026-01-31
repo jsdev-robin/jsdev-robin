@@ -50,24 +50,26 @@ Architecting and delivering end-to-end solutions across web, mobile, and cloud e
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+---
+
 ## 🏗️ Projects
 
-**Munza Geo API** – [Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) | [Docs](https://github.com/jsdev-robin/munza-docs/blob/master/geo/README.md)
-  API for fetching administrative divisions globally, including countries, states, districts, and more.
+**Munza Geo API** – [Live](https://munza-geo.vercel.app/api/v1/administrative/name-0) | [Docs](https://github.com/jsdev-robin/munza-docs/blob/master/geo/README.md)  
+API for fetching administrative divisions globally, including countries, states, districts, and more.
 
-**react-muntaha-uploader**  
-👉 https://www.npmjs.com/package/react-muntaha-uploader  
-A flexible and modern React file uploader with clean APIs, built for real-world production use.
+**react-muntaha-uploader** – [npm](https://www.npmjs.com/package/react-muntaha-uploader)  
+A modern React file uploader designed for flexible, production-ready file handling.
 
-**muntahacache**  
-👉 https://www.npmjs.com/package/muntahacache  
-A lightweight, high-performance caching library designed for scalable web applications, supporting structured data and media caching.
+**muntahacache** – [npm](https://www.npmjs.com/package/muntahacache)  
+A lightweight caching library built for performance, scalability, and structured data management.
 
+---
 
 ## 📫 Contact
 - **Email:** [jsdev.robin@gmail.com](mailto:jsdev.robin@gmail.com)  
 - **Phone:** +88017-63408494  
-- **GitHub:** [jsdev-robin](https://github.com/jsdev-robin)  
+- **GitHub:** [jsdev-robin](https://github.com/jsdev-robin)
+
 ---
 
 *Building robust, scalable systems with a focus on performance, maintainability, and modern development best practices.*
